@@ -1,0 +1,14 @@
+{
+  "name": "github-api",
+  "version": "1.0.0",
+  "description": "Required packages for Github API project",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Neon Byte",
+  "license": "ISC",
+  "dependencies": {
+    "node-fetch": "^2.6.1"
+  }
+}
